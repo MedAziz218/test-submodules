@@ -1,0 +1,4 @@
+[submodule "layers"]
+	path = layers
+	url = https://git.yoctoproject.org/meta-lts-mixins
+	branch = scarthgap/u-boot
